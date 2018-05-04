@@ -1,15 +1,12 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
 
+Course: Building on AWS
+Link: https://www.edx.org/course/aws-developer-building-on-aws
+Duration: 6 Weeks
 
-Hi there! Welcome to AWS Cloud9!
+Key services: EC2, X-Ray, Cloud9, S3, Cognition, Rekognition, IAM, *add more*
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+Final exercise of the course is the 'exercise-sns-sqs'
 
-Happy coding!
+Project services have been suspended to avoid costs. The project will no longer run.
 
+*add details*
